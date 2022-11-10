@@ -1,11 +1,11 @@
-### Hi there! 👋 My name is Tony. Welcome to my Github!
+## Hi there! 👋 My name is Tony. Welcome to my Github!
 
-## About Me: 
+### 📖 About Me: 
 - 🔭 I’m currently seeking oppurtunites to be a full time software engineer.
 - 💬 Ask me about my projects answered and AirTnt.
 - ⚡ Fun fact: I enjoy spending my sundays watching the NFL all day. 
 
-## Technologies: 
+### 🧑‍💻 Technologies: 
 ![image](https://user-images.githubusercontent.com/104934632/201012402-a38b0def-ab00-40bd-b258-f8b7990fd166.png)
 ![image](https://user-images.githubusercontent.com/104934632/201012436-3ba43c56-794d-4970-a7b2-c48d0856b204.png)
 ![image](https://user-images.githubusercontent.com/104934632/201012462-fa509897-362e-4274-a946-a84a9d02886e.png)
